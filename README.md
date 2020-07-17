@@ -2,7 +2,7 @@
 
 Heard of the classic electronic Simon game❓
 
-The rules here are exactly the same, this will show you the tile you have to click on, and as the level goes up the pattern becomes more and more complicated.⚡🔥
+The rules here are exactly the same, this will show you the tile you have to click on, and as the level goes up the pattern becomes more and more complicated.⚡
 If you got it wrong❌ then you have to start all over again.👀Also sound is added to make it more interesting🔊
 
 # Demo🎉
@@ -11,7 +11,7 @@ If you got it wrong❌ then you have to start all over again.👀Also sound is a
 
 It's time to show off your memory skills.💃
 
-Check this out👀 - https://yashashetty502.github.io/Simon-Game/
+Play this game👀 - https://yashashetty502.github.io/Simon-Game/
 
 My highest score is level 15🥳
 
